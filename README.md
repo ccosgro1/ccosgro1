@@ -10,4 +10,4 @@ Most recently, we have been working on data accessibility and visualization. I'v
 
 Where to find me:
 
-[![LinkedIn Badge](htt![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/colleen-cosgrove-phd/)
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/colleen-cosgrove-phd/)
