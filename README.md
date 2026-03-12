@@ -9,4 +9,5 @@ My name is Colleen Cosgrove. I completed my PhD in ecology from Kent State in 20
 Most recently, we have been working on data accessibility and visualization. I've been very excited to build a dashboard that allows us and many of our collaborators, angency members, and farmers to explore, use, and work with our data that also acts as a new Data Portal to replace our older, outdated model! The dashboard is currently in the final stages of production and will be moving into beta-testing and live to the public in the next two months.
 
 Where to find me:
-[![LinkedIn Badge](https://img.shields.io)]([https://www.linkedin.com](https://www.linkedin.com/in/colleen-cosgrove-phd/))
+
+[![LinkedIn Badge](htt![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/colleen-cosgrove-phd/)
