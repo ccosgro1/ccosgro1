@@ -15,6 +15,7 @@ Most recently, we have been working on data accessibility and visualization. I'v
 ![](https://img.shields.io/badge/Code-R%20Studio-informational?style=flat&logo=rstudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R%20Shiny-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Code-Dashboard%20Creation-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=Markdown&logoColor=white&color=2bbc8a)
