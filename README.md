@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-My name is Colleen Cosgrove. I am the CoFounder and a data Consultant for an environmental data consulting firm called EcoDataWorks! I have experience in both terrestrial and freshwater ecology and a passion for data science! We would love to help you with your data needs. I am also open to full-time data science-heavy roles that allow me to grow my skillset!
+My name is Colleen Cosgrove. I am the CoFounder and a data Consultant for an environmental data consulting firm called EcoDataWorks! I have experience in both terrestrial and freshwater ecology and a passion for data science! We offer services from data management and cleaning to statistical analysis to dashboard creation and mainentance. We would love to help you with your data needs! I am also open to full-time data science-heavy roles that allow me to grow my skillset!
 
 I completed my PhD in Ecology from Kent State in 2022 studying terrestrial community and ecosystem ecology. Since then, I worked as a PostDoc at the National Center for Water Quality Research at Heidelberg University from 2023-2026. This role began as an analysis of nutrient load estimators and determining the best sampling frequency regimes as well as the creation of the rbeale R package - a Beale's Ratio Estimator.This role focused on data accessibility and visualization - I built a dashboard that allows the lab and many of their collaborators, angency members, and farmers to explore, use, and work with the data that also acts as a new Data Portal, replacing their older, outdated model!
 
